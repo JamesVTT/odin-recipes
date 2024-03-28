@@ -1,0 +1,60 @@
+/* Main Stylesheet for Odin Recipes */
+* {
+    font-family: "comic sans", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body {
+    background-color: rgb(156, 168, 156);
+}
+
+ul {
+    width: 450px;
+    margin: 0px auto;
+    padding: 20px;
+}
+
+.container {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+    padding: 20px;
+   }
+
+li {
+    margin: 10px;
+
+}
+
+.first-recipe {
+    background-color: #548Ca8;
+}
+
+.second-recipe {
+    background-color: #476072;
+}
+
+.third-recipe {
+    background-color: #334257;
+}
+
+h1 {
+    background-color: grey;
+    color: brown;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 3rem;
+}
+
+button a {
+    text-align:center;
+}
+
+a:visited {
+    color: rgb(169, 169, 230);
+}
+
+
+img {
+    height: auto;
+    width: 250px;
+}
